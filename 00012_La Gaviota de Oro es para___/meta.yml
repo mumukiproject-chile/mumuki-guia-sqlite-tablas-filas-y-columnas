@@ -5,6 +5,7 @@ layout: input_right
 editor: code
 type: problem
 extra_visible: false
+teacher_info: ''
 manual_evaluation: false
 choices: []
-name: El Martín Fierro de Oro es para...
+name: La Gaviota de Oro es para...
