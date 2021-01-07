@@ -4,4 +4,6 @@ También debes respetar los nombres de las tablas, ya que el mínimo cambio de c
 
 Te proporcionamos el código de la consulta anterior:
 
-```sql SELECT * FROM contactos; ```
+```sql 
+SELECT * FROM contactos; 
+```

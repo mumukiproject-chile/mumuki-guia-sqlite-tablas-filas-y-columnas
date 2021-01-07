@@ -2,7 +2,9 @@ Queremos mejorar la organización del contenido utilizando algunos filtros.
 
 Por ejemplo, nos interesa mostrar una sección de “Recomendados” donde esté todo el contenido con puntaje mayor o igual a 9. 
 
-```sql SELECT titulo AS recomendados FROM series_peliculas WHERE puntaje >= 9; ```
+```sql 
+SELECT titulo AS recomendados FROM series_peliculas WHERE puntaje >= 9; 
+```
 
 > Presiona continuar para ver el resultado.
 

@@ -2,7 +2,9 @@ Ahora que sabemos cómo agregar filtros, nos gustaría que se pueda buscar utili
 
 Armamos un filtro donde se muestran distintos contenidos de “El planeta de los simios” cuyo año de estreno sea de 1974 en adelante o tenga puntaje mayor a 8 y no sea el cómic. 
 
-```sql SELECT id_contenido, titulo, formato, estreno, puntaje FROM series_peliculas WHERE titulo LIKE "%planeta de los simios%" AND (estreno >= 1974 OR puntaje >= 8) AND NOT formato LIKE "cómic"; ```
+```sql 
+SELECT id_contenido, titulo, formato, estreno, puntaje FROM series_peliculas WHERE titulo LIKE "%planeta de los simios%" AND (estreno >= 1974 OR puntaje >= 8) AND NOT formato LIKE "cómic"; 
+```
 
 <div
   class='mu-sql-table'

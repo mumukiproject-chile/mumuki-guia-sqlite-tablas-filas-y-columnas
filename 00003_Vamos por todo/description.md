@@ -3,6 +3,8 @@ Seguramente trabajaste alguna vez con tablas en un Excel o insertando una en Wor
 En las bases de datos relacionales, existe una sentencia para “seleccionar” las columnas que queremos ver, a la que llamamos `SELECT`, y se ve así: 
 
 
-```sql SELECT * FROM contactos; ```
+```sql 
+SELECT * FROM contactos; 
+```
 
 > Presiona Continuar para ver el resultado.
