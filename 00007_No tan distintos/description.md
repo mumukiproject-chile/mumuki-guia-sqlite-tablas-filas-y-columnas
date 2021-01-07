@@ -1,5 +1,4 @@
-Hasta ahora vimos tablas donde ningún registro se repetía. ¿Pero qué sucedería si 
-se hicieran dos versiones de una misma película en el mismo año, o una película y un documental con similares características? ¿Cómo podríamos diferenciarlos? 
+Hasta ahora vimos tablas donde ningún registro se repetía. ¿Pero qué sucedería si se hicieran dos versiones de una misma película en el mismo año, o una película y un documental con características similares? ¿Cómo podríamos diferenciarlos? 
 
 <div class='mu-sql-table'
   data-name='series_peliculas'
@@ -12,6 +11,6 @@ se hicieran dos versiones de una misma película en el mismo año, o una pelícu
   ]'>
 </div>
 
-Para diferenciarlos se utiliza un identificador único para cada registro, que suele ser numérico por simplicidad, y se lo llama Clave Primaria, Principal o Primary Key (PK). 
+Para diferenciarlos se utiliza un identificador único para cada registro, que suele ser numérico por simplicidad, y se lo llama Clave Primaria, o Principal o Primary Key (PK). 
 
-> Consultá todos los campos de la tabla _series_peliculas_ para ver cómo quedó con el nuevo identificador agregado. 
+> Consulta todos los campos de la tabla _series\_peliculas_ para ver cómo quedó con el nuevo identificador agregado. 

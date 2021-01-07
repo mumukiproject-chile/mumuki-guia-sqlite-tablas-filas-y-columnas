@@ -1,10 +1,7 @@
-Tené cuidado de mantener la sintaxis que te mencionamos. 
+Ten cuidado de mantener la sintaxis que te mencionamos. 
 
-También debés respetar los nombres de las tablas, ya que el mínimo cambio de caracter estaría refiriendo a otra tabla.
+También debes respetar los nombres de las tablas, ya que el mínimo cambio de carácter estaría refiriendo a otra tabla.
 
-Te dejamos el código de la consulta anterior:
+Te proporcionamos el código de la consulta anterior:
 
-```sql
-SELECT * 
-FROM contactos;
-```
+```sql SELECT * FROM contactos; ```

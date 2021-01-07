@@ -1,7 +1,3 @@
-Te dejamos como ayuda la consulta del ejercicio anterior:
+Te dejamos como ayudita la consulta del ejercicio anterior: :wink:
 
-```sql
-SELECT titulo
-FROM series_peliculas 
-WHERE puntaje >= 9;
-```
+```sql SELECT titulo AS recomendados FROM series_peliculas WHERE puntaje >= 9; ```

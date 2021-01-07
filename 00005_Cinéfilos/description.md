@@ -1,6 +1,6 @@
-Como nos gustan mucho las series, películas y sus personajes...
+Como nos gustan mucho las series y películas y sus personajes...
 
-> Consultá todos los campos de la tabla `series_peliculas`.
+> Consulta todos los campos de la tabla `series_peliculas`.
 
 
 <div class='mu-erd'
