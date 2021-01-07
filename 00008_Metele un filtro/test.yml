@@ -1,0 +1,2 @@
+type: query
+expected: SELECT titulo, puntaje FROM series_peliculas;
